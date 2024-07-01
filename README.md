@@ -8,3 +8,5 @@ var sfsymbols = ["0.circle", "00.circle", "0.circle.fill", "00.circle.fill", "0.
 
 * [allsfsymbols.txt](allsfsymbols.txt): A list of all the symbols with on every line
 * [allsfsymbols.swift](allsfsymbols.swift): An array of all the symbols
+* [SF Symbols 6 Beta App](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-6.dmg): Apple's official app for SF Symbols
+* [About SF Symbols](https://developer.apple.com/sf-symbols/): Apple's page about SF symbols
